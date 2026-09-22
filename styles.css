@@ -132,7 +132,7 @@ button { font: inherit; }
 .tips li a:hover i { transform: translate(4px, -4px); }
 
 .contact { background: var(--green); color: var(--ink); }
-.contact h2 { font-size: clamp(5rem, 12vw, 13rem); white-space: nowrap; }
+.contact h2 { font-size: clamp(5rem, 9.4vw, 11rem); white-space: nowrap; }
 .contact-row { display: flex; justify-content: space-between; align-items: end; gap: 50px; margin-top: 60px; }
 .contact-row p { max-width: 560px; margin: 0; font-size: clamp(1.1rem, 1.55vw, 1.45rem); }
 
